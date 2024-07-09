@@ -20,7 +20,7 @@
 
 ###### Definindo termos novos ou não usuais
 
-Para saber como inserir termos adequadamente em sua documentação, existe duas regras que na maioria das vezes será um bom indicativo de como trabalhá-los:
+Para saber como inserir termos adequadamente em sua documentação, existem duas regras que na maioria das vezes será um bom indicativo de como trabalhá-los:
 
 - Se o termo **já existe**, tente conectá-lo à uma explicação já consolidada.
 - Se você está **criando** o termo, defina-o bem e caso sejam vários termos crie um **glossário**.
