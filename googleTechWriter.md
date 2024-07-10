@@ -68,7 +68,7 @@ A clareza do seu texto deve sempre ser sua **prioridade**, para isso algumas pr�
 
 ### Construção resumida
 
-Um bom escritor técnico vai sempre tentar buscar produzir uma documentação mais **resumida** possível pois uma documentação **concisa** traz alguns benefícios, sendo estes:
+Um bom escritor técnico sempre tentará buscar produzir uma documentação o mais **resumida** possível pois um documento **conciso** traz alguns benefícios, sendo estes:
 
 - Documentação resumida é lida mais **rapidamente**
 - Documentação resumida é normalmente mais **fácil de manter**
@@ -111,9 +111,9 @@ Listas numeradas são utilizadas quando a **ordem** dos itens **é importante**:
 > 2. Tempere a carne.
 > 3. Coloque a massa para ferver.
 
-Listas efetivas são **paralelas**. E o que é uma lista paralela? É uma lista que segue alguns paramÊtros:
+Listas efetivas são **paralelas**. E o que é uma lista paralela? É uma lista que segue alguns paramêtros:
 
-- Gramática, segue uma boa gramática na **escrita** de seus itens.
+- Gramática, segue boas práticas na **escrita** de seus itens.
 - Categorização lógica, os itens da lista pertencem a um **mesmo grupo lógico**.
 - Capitalização, as **iniciais** de cada item seguem um padrão de **maiúsculas ou minúsculas**.
 - Pontuação, a pontuação **final** de cada item segue o **padrão** da lista utilizando vírgula, ponto final ou nenhuma pontuação.
